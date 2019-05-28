@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Success");
 
 		int x;
+		int y;
 
 
 	}
