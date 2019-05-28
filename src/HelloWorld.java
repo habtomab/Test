@@ -6,6 +6,8 @@ public class HelloWorld {
 		
 		System.out.println("Habtom first git trial");
 		System.out.println("Success");
+		
+		int z;
 
 
 	}
