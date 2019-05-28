@@ -9,6 +9,9 @@ public class HelloWorld {
 		
 		int z;
 
+		int x;
+		int y;
+
 
 	}
 
