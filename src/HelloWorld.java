@@ -5,6 +5,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Habtom first git trial");
+		System.out.println("Success");
+
 
 	}
 
